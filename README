@@ -1,0 +1,6 @@
+This repo contains solutions to various programming problems found at 
+http://rosettacode.org/wiki/Category:Programming_Tasks 
+
+Each problem has its own sub-folder, which contains solutions in one or more
+languages. Each sub-folder also has its own unique README file, containing 
+explanatory notes. 
